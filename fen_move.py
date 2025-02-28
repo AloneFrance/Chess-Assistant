@@ -1,7 +1,7 @@
 import requests
 import json
 
-best_path = r"C:\Users\cleme\Documents\Chess\txt\fen.txt" #change ** in your windows username
+best_path = r"C:\Users\**\Documents\Chess\txt\fen.txt" #change ** in your windows username or path if error
 
 def get_best_move(fen_position, depth):
     API_URL = "https://chess-api.com/v1"
