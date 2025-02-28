@@ -6,7 +6,7 @@ def fen(player):
     global result
     url = "http://app.chessvision.ai/predict"
 
-    with open(r"C:\Users\cleme\Documents\Chess\img\chess.png", "rb") as image_file: #change ** in your windows username
+    with open(r"C:\Users\**\Documents\Chess\img\chess.png", "rb") as image_file: #change ** in your windows username or path if error
         encoded_image = base64.b64encode(image_file.read()).decode('utf-8')
 
     data = {
