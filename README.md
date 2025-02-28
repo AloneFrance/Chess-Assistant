@@ -44,7 +44,7 @@ And click enter when you want to get the next movement
 
 ## Project Structure
 ```
-Chess FEN Extractor/
+Chess Assistant/
 │── main.py          # file to launch
 │── fen_move.py
 │── af_demand.py
