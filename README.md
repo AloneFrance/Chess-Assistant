@@ -66,4 +66,4 @@ click enter to get move
 ![final part](readme/result.png)
 
 
-**Author:** kr1p_h4x0r
+**Author:** kr1p_h4x0r (discord)
