@@ -25,8 +25,8 @@ pip install requests pyautogui base64
 ## Installation
 1. Clone the repository or download the files:
 ```bash
-git clone https://github.com/AloneFrance/Chess-Assistant.git
-cd Chess-Assistant
+git clone https://github.com/your-repo/chess-fen-extractor.git
+cd chess-fen-extractor
 ```
 2. Modify the User path in `fen_move.py`, `af_demand.py`, `af_content.py`, `img_fen.py(in utils folder)`
 
@@ -61,11 +61,9 @@ enter your player : white
 click enter to get move (ive click enter key)
 Move d2 → d4 (d4)
 click enter to get move
-```.
 
 ```
 ![final part](readme/result.png)
-```
 
----
+
 **Author:** kr1p_h4x0r
