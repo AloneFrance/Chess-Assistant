@@ -1,7 +1,7 @@
 from utils.demand import *
 from utils.img_fen import *
 
-fen_path = r"C:\Users\cleme\Documents\Chess\txt\fen.txt" #change ** in your windows username
+fen_path = r"C:\Users\**\Documents\Chess\txt\fen.txt" #change ** in your windows username or path if error
 
 player = str(input("enter your player : "))
 
