@@ -25,8 +25,8 @@ pip install requests pyautogui base64
 ## Installation
 1. Clone the repository or download the files:
 ```bash
-git clone https://github.com/your-repo/chess-fen-extractor.git
-cd chess-fen-extractor
+git clone https://github.com/AloneFrance/Chess-Assistant.git
+cd Chess-Assistant
 ```
 2. Modify the User path in `fen_move.py`, `af_demand.py`, `af_content.py`, `img_fen.py(in utils folder)`
 
