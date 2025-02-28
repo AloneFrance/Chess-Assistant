@@ -61,7 +61,6 @@ enter your player : white
 click enter to get move (ive click enter key)
 Move d2 → d4 (d4)
 click enter to get move
-
 ```
 ![final part](readme/result.png)
 
